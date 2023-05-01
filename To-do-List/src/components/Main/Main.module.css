@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 32px;
+    font-size: 14px;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,20 @@
+.list li {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:32px;
+    padding: 10px;
+}
+
+.checked {
+    color: red;
+    text-decoration: line-through;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px
+}
